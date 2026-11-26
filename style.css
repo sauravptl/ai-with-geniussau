@@ -22,3 +22,5 @@ footer{margin-top:56px;padding-top:22px;border-top:1px solid var(--line);color:v
 ul{color:var(--muted);padding-left:20px}
 li{margin:6px 0}
 code{background:#0f1622;border:1px solid var(--line);padding:1px 6px;border-radius:6px;font-size:13px;color:#ffd27a}
+
+.hero{width:100%;height:auto;border-radius:16px;border:1px solid var(--line);margin:0 0 30px;display:block}
